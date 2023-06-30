@@ -18,6 +18,14 @@
 ```javascript
 (e) => mc2;
 ```
+Création d'une variable de type string
+let firstname = 'Henri';
+Création d'une variable de type number
+let age = 25;
+Concaténation des deux variables.
+const name = firstname + ' a ' + age + ' ans';
+Visualisation du résultat via la console du navigateur
+console.log(name);
 
 ### Utilisation dans un projet ❌ / ✔️
 
