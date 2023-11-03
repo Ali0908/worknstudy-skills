@@ -100,19 +100,28 @@ React Native est la documentation officiel, elle permet d'otenir l'ensemble des 
 Github: https://github.com/facebook/react-native
 Indication sur la démarche à suivre afin d'installer React Native sur Windows, macOS, or Linux. On trouve  notamment dessus les différentes versions de React Native ainsi qu'un tutoriel afin de créer sa première application sur React Native
 
+React Native vidéos: Meta le fondateur de React a mis à disposition sur YouTube une série de vidéos sur React Native, j'ai consulté les vidéos concernant React.js Conf 2015 Keynote - Introducing React Native dans laquelle le groupe explique les raisons qui les ont poussés à créer ce logiciel.
+https://www.youtube.com/watch?v=KVZ-P-ZI6W4&ab_channel=MetaDevelopers
+
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
 Description:
+J'ai rencontré un souci dans l'affichage de l'avatar sur la page d'inscription.
 
 Plan d'action : (à valider par le formateur)
 
 - action 1 ❌ / ✔️
 - action 2 ❌ / ✔️
 - ...
+- action 1: Relecture de la documentation de React Native.
+- action 2: Recherche sur divers plateformes comme StackOverflow
+- action 3: Sollicitations de mes collègues
 
 Résolution :
+
+J'ai trouvé un code similaire au mien, j'ai dus ajouter une interface et ajouter une méthode afin de gérer la gestion de l'ouverture ou fermeture d'une fenêtre modal. 
 
 ## 📽️ J'en fais la démonstration
 
